@@ -17,9 +17,9 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_Asteroid","order":1,"path":"objects/obj_Asteroid/obj_Asteroid.yy",},
     {"name":"spriteAsteroidSmall","order":1,"path":"sprites/spriteAsteroidSmall/spriteAsteroidSmall.yy",},
     {"name":"spriteAsteroidMedium","order":2,"path":"sprites/spriteAsteroidMedium/spriteAsteroidMedium.yy",},
     {"name":"spriteAsteroidHuge","order":3,"path":"sprites/spriteAsteroidHuge/spriteAsteroidHuge.yy",},
-    {"name":"objectAsteroid","order":1,"path":"objects/objectAsteroid/objectAsteroid.yy",},
   ],
 }

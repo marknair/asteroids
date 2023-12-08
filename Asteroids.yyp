@@ -35,11 +35,11 @@
   },
   "resources": [
     {"id":{"name":"spriteShip","path":"sprites/spriteShip/spriteShip.yy",},},
+    {"id":{"name":"obj_Asteroid","path":"objects/obj_Asteroid/obj_Asteroid.yy",},},
     {"id":{"name":"spriteAsteroidSmall","path":"sprites/spriteAsteroidSmall/spriteAsteroidSmall.yy",},},
     {"id":{"name":"spriteAsteroidMedium","path":"sprites/spriteAsteroidMedium/spriteAsteroidMedium.yy",},},
-    {"id":{"name":"objectShip","path":"objects/objectShip/objectShip.yy",},},
+    {"id":{"name":"obj_Ship","path":"objects/obj_Ship/obj_Ship.yy",},},
     {"id":{"name":"spriteAsteroidHuge","path":"sprites/spriteAsteroidHuge/spriteAsteroidHuge.yy",},},
-    {"id":{"name":"objectAsteroid","path":"objects/objectAsteroid/objectAsteroid.yy",},},
     {"id":{"name":"roomGame","path":"rooms/roomGame/roomGame.yy",},},
   ],
   "RoomOrderNodes": [
